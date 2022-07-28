@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'http://blog-imgs-44.fc2.com/s/y/a/syararin/006DSC_2221.jpg'
+img_url = 'https://gahag.net/img/201602/21s/gahag-0058431826-1.jpg'
 
 im = imread(img_url)
 
